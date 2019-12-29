@@ -1,6 +1,6 @@
-## PDF Scan Support
+## PDF Scan Support or Contact
 
-You can contact with us use houwenjun1989@gmail.com,thanks a lot.
+If you have any questions,please contact with us use houwenjun1979@gmail.com,and we’ll help you sort it out.thanks a lot.
 
 ### App Feature
 
@@ -18,6 +18,3 @@ Advanced PDF Scanner App:
 – Advanced pic processing with enhancement and color correction, noise removing, automatic perspective correction and more
 – Multipage scanning – scan as many pages as you like
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
